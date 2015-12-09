@@ -1,0 +1,42 @@
+{
+  "kode_proyek": "excel.no",
+  "kode_perusahaan": 1200000001,
+  "kode_customer": 1500000001,
+  "kode_sales": 0,
+  "kode_manager": 0, //users, pm
+  "kode_leader": 0,
+  "kode_uang": "IDR",
+  "kode_status": kodekategori status, //input data diatas ke master data, status in enginner
+  "kode_jenis": excel.current_status, //input data diatas kemaster data, current status
+  "kode_tipe": 0, //master data kategori,
+  "kode_kesulitan": 0,
+  "kode_pembayaran": 0,
+  "kode_pengerjaan": 0, //master data pengerjaan
+  "kode_model": 0,
+  "kode_tenant": 0,
+  "kode_kategori_1": input data diatas ke master data,
+  "kode_kategori_2": input data diatas ke master data,
+  "kode_kategori_3": input data diatas ke master data,
+  "id_proyek": excel:no:1,
+  "hk_id_proyek": excel:no_project_hk:2,
+  "nama_proyek": 0,
+  "keterangan_proyek": 0,// masih bingung pake field sow_po apa sow_wo
+  "nilai_proyek": 0, //ngga ngerti, di excel ada value so,bast,invoice sama po, disistem valuenya po so sama satulagi,
+  "lokasi_proyek": excel:area,
+  "provinsi_proyek": ,// liat di area
+  "kota_proyek": ,// liat di alamat
+  "mulai_proyek": excel:po,
+  "selesai_proyek": excel:bast,
+  "spk_proyek": 0,
+  "value_spk_proyek": 0,
+  "spk_tanggal_proyek": 0,
+  "spk_tanggal_terima_proyek": 0,
+  "po_proyek":// liat di po number
+  "value_po_proyek":,//liat di po value
+  "po_tanggal_proyek": ,//liat di po date
+  "po_tanggal_terima_proyek": ,// liat di po receive date
+  "nocostcenter":,// liat di cost center
+  "group_proyek"://liat di grupaccount
+  "customer_proyek":,//liat di customer
+  "pajak_proyek":0
+}

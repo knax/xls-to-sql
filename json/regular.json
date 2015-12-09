@@ -1,0 +1,74 @@
+[
+  {
+    "ID": 1,
+    "Tanggal": "21-12-2000",
+    "Nama": "Hasta",
+    "Kota": 1
+  },
+  {
+    "ID": 2,
+    "Tanggal": "21-12-2001",
+    "Nama": "Ragil",
+    "Kota": 2
+  },
+  {
+    "ID": 3,
+    "Tanggal": "21-12-2002",
+    "Nama": "Saputra",
+    "Kota": 3
+  },
+  {
+    "ID": 4,
+    "Tanggal": "21-12-2003",
+    "Nama": "Hasta",
+    "Kota": 2
+  },
+  {
+    "ID": 5,
+    "Tanggal": "21-12-2004",
+    "Nama": "Ragil",
+    "Kota": 3
+  },
+  {
+    "ID": 6,
+    "Tanggal": "21-12-2005",
+    "Nama": "Saputra",
+    "Kota": 2
+  },
+  {
+    "ID": 7,
+    "Tanggal": "21-12-2006",
+    "Nama": "Hasta",
+    "Kota": 3
+  },
+  {
+    "ID": 8,
+    "Tanggal": "21-12-2007",
+    "Nama": "Ragil",
+    "Kota": 4
+  },
+  {
+    "ID": 9,
+    "Tanggal": "21-12-2008",
+    "Nama": "Saputra",
+    "Kota": 1
+  },
+  {
+    "ID": 10,
+    "Tanggal": "21-12-2009",
+    "Nama": "Hasta",
+    "Kota": 4
+  },
+  {
+    "ID": 11,
+    "Tanggal": "21-12-2010",
+    "Nama": "Ragil",
+    "Kota": 3
+  },
+  {
+    "ID": 12,
+    "Tanggal": "21-12-2011",
+    "Nama": "Saputra",
+    "Kota": 4
+  }
+]

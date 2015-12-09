@@ -1,0 +1,39 @@
+{
+  "mainSheet": "Main",
+  "header": {
+    "start": {
+      "column": "B",
+      "row": "2"
+    },
+    "end": {
+      "column": "E",
+      "row": "2"
+    }
+  },
+  "data": {
+    "start": {
+      "column": "B",
+      "row": "3"
+    },
+    "end": {
+      "column": "E",
+      "row": "14"
+    }
+  },
+  "lookup": {
+    "Kota": {
+      "sheets": "Kota",
+      "start": {
+        "column": "B",
+        "row": "3"
+      },
+      "end": {
+        "column": "C",
+        "row": "6"
+      }
+    }
+  },
+  "query": {
+    "insert": "INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES (\"${id}\",\"${tanggal}\",\"${nama}\",\"${kota}\")"
+  }
+}

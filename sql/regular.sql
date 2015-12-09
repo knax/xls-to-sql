@@ -1,0 +1,12 @@
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("1","21-12-2000","Hasta","1");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("2","21-12-2001","Ragil","2");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("3","21-12-2002","Saputra","3");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("4","21-12-2003","Hasta","2");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("5","21-12-2004","Ragil","3");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("6","21-12-2005","Saputra","2");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("7","21-12-2006","Hasta","3");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("8","21-12-2007","Ragil","4");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("9","21-12-2008","Saputra","1");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("10","21-12-2009","Hasta","4");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("11","21-12-2010","Ragil","3");
+INSERT INTO regular VALUES(id, tanggal, nama, kota) VALUES ("12","21-12-2011","Saputra","4");
